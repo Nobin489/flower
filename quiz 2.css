@@ -1,11 +1,9 @@
-/* Reset some default styles for consistency */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Define basic styling for your website */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -75,5 +73,3 @@ footer {
     text-align: center;
     padding: 1rem;
 }
-
-/* Add more styles for other elements as needed */
